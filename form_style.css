@@ -1,0 +1,47 @@
+table,th,tr,td{
+    border: solid 3px black;
+    border-collapse:collapse;
+    padding: 4px;
+}
+#subheading{
+    background-color:thistle;
+    color:darkgreen
+}
+table{
+    margin-top:30px;
+}
+tr{
+    background-color: #a92395;
+    color: #E1C8D7;
+    
+}
+#heading , #bottom{
+    color:brown;
+    background-color: #d5e992;
+}
+body{
+    /* background-image: url(bg_image_form.jpg); */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#k{
+    background-color: aquamarine;
+    color:chocolate
+}
+#move{
+    margin-left: 100px;
+}
+.extra{
+    margin-top:50px;
+}    
+button{
+        padding: 5px;
+        background-color: chartreuse;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: large;
+        border-radius: 20%;
+    }
+table{
+    align-content: center;
+}
